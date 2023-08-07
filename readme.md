@@ -1,5 +1,5 @@
-pm2 start arquivo.js  Inicia um novo processo
-pm2 stop <nome> Para um processo em execução
+pm2 start arquivo.js  Inicia um novo processo <br>
+pm2 stop <nome> Para um processo em execução <br>
 pm2 restart <nome>  Reinicia um processo
 pm2 delete <nome> Remove um processo
 pm2 logs <nome> Exibe os logs de um processo
